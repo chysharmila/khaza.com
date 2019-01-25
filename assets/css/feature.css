@@ -1,0 +1,171 @@
+.search-container
+{
+	
+	margin-top: -57px;
+	text-align: center;
+}
+.header-nav
+{
+	padding: 33px;
+}
+.glyphicon-shopping-cart
+
+{
+	margin-top: -40px;
+}
+.box-shadow-menu 
+{
+	position: relative;
+
+  padding-left: 1.25em;
+}
+.nav1
+{
+	margin-left: 76px;
+
+     
+}
+.color
+{
+	color: black;
+}
+
+.image
+{
+	margin-left: 70PX;
+
+margin-top: -29px;
+}
+
+.affix {
+      top: 0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+  .navbar-in
+  {
+  	background-color: white;
+  	color: black;
+  	font-size: 15px;
+  }
+.header
+{
+  padding: 40px;
+}
+.image1
+{
+  position: relative;
+ 
+ 
+  
+  margin-top: -500px;
+  color: white;
+}.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.content1 {
+  
+  min-width: 866px; 
+  
+}
+.content2{
+  
+  min-width: 823px; 
+  
+}
+.content3 {
+  
+  min-width: 595px; 
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+li
+{
+  padding-left: 37px;
+}
+.image1
+{
+  margin-top: -113px;
+
+padding-bottom: 94px;
+
+margin-left: 471px;
+color: white;
+}
+.center
+{
+  text-align: center;
+
+}.foot
+{
+  background-color: #3c3b3b;
+  padding-bottom: 80px;
+}
+.color2
+{
+  color: white;
+}
+.btn
+{
+  background-color: black;
+  color: white;
+}
+
+.button
+
+{
+  background-color: black;
+  color: white;
+}
+.button1
+
+{
+  background-color: black;
+  color: white;
+  border:none;
+}
+.color1
+{
+  color: #807d7d;
+}
+
+.color3
+{
+  background-color: #f2f0f0;
+}
+.hover a:hover
+{
+  background-color: black;
+  color: white;
+}
+.empty
+{
+  margin-top: -24px;
+} 

@@ -1,0 +1,34 @@
+.top_bar
+{
+	background-color: #f26522;
+}
+.social
+{
+	margin-right: 5px;
+}
+.contact_info
+{
+	color: #fff; font-size: 16px;
+}
+.my_menu
+{
+	margin-top: 20px;
+}
+.my_menu .navnar-default
+{
+	background: none; border: none;
+}
+.my_menu .navbar-nav .active a:hover
+{
+	background-color: #678899; 
+}
+
+.my_menu .navbar-nav  li a: hover
+{
+	background-color: #678899 ;
+
+}
+
+
+
+

@@ -1,0 +1,18 @@
+.navbar{
+	margin-bottom: 50px;
+	border-radius: 0;
+}
+
+div#myNavbar.collapse.navbar-collapse{
+	text-align: center;
+}
+
+ul.nav.navbar-nav{
+	display: inline-block;
+	float: none;
+}
+
+.a
+{
+	margin-left: 60px;
+}

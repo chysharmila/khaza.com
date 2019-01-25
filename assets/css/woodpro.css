@@ -1,0 +1,65 @@
+.search-container
+{
+	
+	margin-top: -57px;
+	text-align: center;
+}
+.header-nav
+{
+	padding: 33px;
+}
+.glyphicon-shopping-cart
+
+{
+	margin-top: -40px;
+}
+.box-shadow-menu 
+{
+	position: relative;
+
+  padding-left: 1.25em;
+}
+li
+{
+	padding-left: 37px;
+}
+.nav1
+{
+	margin-left: 76px;
+
+     
+}
+
+
+.color
+{
+	color: black;
+}
+
+.image
+{
+	margin-left: 70PX;
+
+margin-top: -29px;
+}
+
+.affix {
+      top: 0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+  .navbar-in
+  {
+  	background-color: white;
+  	color: black;
+  	font-size: 15px;
+  }
+
+
+
+
+ 

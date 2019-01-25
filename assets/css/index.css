@@ -1,0 +1,31 @@
+.navbar{
+	margin-bottom: 50px;
+	border-radius: 0;
+}
+
+div#myNavbar.collapse.navbar-collapse{
+	text-align: center;
+}
+
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+ul.nav.navbar-nav{
+	display: inline-block;
+	float: none;
+}

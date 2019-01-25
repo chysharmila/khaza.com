@@ -1,0 +1,48 @@
+.form-design
+{
+	margin-top: 100px;
+	margin-left: 100px;
+	
+}
+
+.in
+{
+	background: gainsboro;
+	width: 900px;
+	height: 570px;
+	margin-left: 200px;
+	margin-top: 30px;
+	margin-bottom:90px;
+}
+.a
+{
+    width: 500px;
+    height: 383px;
+    background:  white;
+    margin-top: 63px;
+     border-radius: 10px;
+}
+
+
+
+
+ .e
+ {
+ 	background: turquoise;
+ }
+
+ .b
+ {
+ 	margin-left: 200px;
+ 	margin-top:18px;
+ }
+
+ .f
+ {
+ 	margin-left: 125px;
+ 	 border-radius: 20px;
+ }
+ .c
+ {
+ 	margin-left: 88px;
+ }
